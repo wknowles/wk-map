@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.625,
+          -33.031
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Puerto de Valparaíso",
+        "date": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.192306,
+          -12.074147
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Callao Roads",
+        "date": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120,
+          0
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Equator",
+        "date": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Hawaii",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.52197265625,
+          20.05593126519445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3984375,
+          48.378145469762444
+        ]
+      }
+    }
+  ]
+}
